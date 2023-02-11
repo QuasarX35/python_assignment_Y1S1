@@ -1,0 +1,25 @@
+name: stada cezti
+expiry date: 12/03/2025
+price: rm6.0
+description: 10 tabs (strip) 10mg tablet
+
+name: antismine
+expiry date: 24/06/2025
+price: rm4.40
+description: 2mg/5ml syrup
+
+name: aerius
+expiry date: 02/02/2026
+price: rm25.8
+description: 5mg tablet
+
+name: gaviscon
+expiry date: 05/07/2024
+price: rm23.9
+description: double action tablet 16s box, treat burning in chest, bloating, difficulties swallowing.
+
+name: linkus
+expiry date: 09/01/2024
+price: rm8.7
+description: lozenges (16 lozenges), temporary relief of occasional mild irritation of throat and mouth
+
